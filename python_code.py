@@ -1,3 +1,2 @@
-print("Hello Github!“:wq”")
-git status
+print("Hello Github!")
 
